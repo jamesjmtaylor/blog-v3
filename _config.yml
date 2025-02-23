@@ -13,14 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: 
+email: james.jm.taylor@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Because you want a disciplined, innovative worker with a mean streak for pragmatism and a lifelong passion for learning. I take great pride in delivering delightful experiences to users of my mobile applications, and learned Sketch and Lottie to make up for the lack of a designer on my personal projects. I quickly realized though that an app is all for naught without a solid backend to support it. So I used the Kotlin from my native Android work to jumpstart into Spring Boot server development. Now, with full command of the stack I’ve returned to delivering holistic applications for my users.
+github_username: jamesjmtaylor
 minimal_mistakes_skin: default
 search: true
 
@@ -58,34 +55,26 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "James JM Taylor"
+  avatar : "/assets/images/avatar.jpg"
+  bio    : "Hi! I’m James, a dedicated polyglot mobile developer based in Portland, OR."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/jamesjmtaylor"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jamesjmtaylor"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-github"
+      url: "https://www.facebook.com/James.Jordan.Moody.Taylor"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/James43289009?mx=2"
 
 defaults:
   # _posts

@@ -2,7 +2,10 @@
 permalink: /about/
 title: "About"
 ---
+![Steve and the Printrbot](/assets/images/printrbot.jpg)
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I received my Bachelor of Science in Computer Science at the United States Military Academy in 2011. I graduated at the top of my class in my major, with honors, and my capstone project, the Joint Academy Cooperative Unmanned Systems Iniative won ‘Best Solution to a Military Problem.’ While in the Army I served in Afghanistan as a Scout Platoon Leader and was eventually promoted to Captain.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Since leaving the Army in 2016 I’ve worked as a mobile applications developer. I’ve been primarily focused on native development in Swift, Java, and Kotlin, although I’ve done some side projects in Ionic and Xamarin as well. For full stack solutions I’ve worked primarily in .NET Core, although I have to say that I prefer Spring Boot and Kotlin, which I’ve used for side-projects.
+
+The picture above is of our cat, Steve, staring at my Printrbot 3d printer.
