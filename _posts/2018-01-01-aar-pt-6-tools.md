@@ -4,13 +4,13 @@ date: 2018-01-01T05:48:17-08:00
 ---
 ![Toolbelt](/img/blog/toolbelt.jpeg)
 
-If you haven't had a chance to read the first entry in the series for context, [you can do so here](/post/after-action-review-aar/). 
+If you haven't had a chance to read the first entry in the series for context, [you can do so here](/post/after-action-review-aar/).
 
 Over the course of a professional career you tend to acquire a lot of tools, regardless of the industry.  I wanted to list some of my favorites in this blog entry, as well as some of my lessons learned from each.  I'll go into greater detail for each in the future, but for now I'll just cover some of my major takeaways from each.
 
 * Always lint any mocked JSON.  I use https://jsonlint.com/
 * If you are doing any kind of network API interaction, test your all your API calls with [Postman](https://www.getpostman.com/).
-* You can get the code equivalent of any Postman call in Java or Swift by clicking on the **Code **button.  If exporting Postman calls as Java use **OKHTTP**.  For swift, use **NSURL**.
+* You can get the code equivalent of any Postman call in Java or Swift by clicking on the **Code** button.  If exporting Postman calls as Java use **OKHTTP**.  For swift, use **NSURL**.
 * In Postman its a best practice to configure settings to erase the cache each time Postman is closed.  That way you can ensure any issues you had in your previous session of Postman don't cross-contaminate your current session.
 * In Postman you can have your environment variables configuration save your **clientURL**, **client id**, and **client secret** with {{...}} in the dialogue box for each argument in the Oauth2.0 modal view.
 * ALWAYS debug network integration through Postman first, then in the simulator with [Charles](https://www.charlesproxy.com/) running (Charles is a Man-In-The-Middle network debugging program)
