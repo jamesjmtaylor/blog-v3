@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: James JM Taylor
 email: james.jm.taylor@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Because you want a disciplined, innovative worker with a mean streak for pragmatism and a lifelong passion for learning. I take great pride in delivering delightful experiences to users of my mobile applications, and learned Sketch and Lottie to make up for the lack of a designer on my personal projects. I quickly realized though that an app is all for naught without a solid backend to support it. So I used the Kotlin from my native Android work to jumpstart into Spring Boot server development. Now, with full command of the stack I’ve returned to delivering holistic applications for my users.
@@ -55,7 +55,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "James JM Taylor"
   avatar : "/assets/images/avatar.jpg"
   bio    : "Hi! I’m James, a dedicated polyglot mobile developer based in Portland, OR."
   links:
