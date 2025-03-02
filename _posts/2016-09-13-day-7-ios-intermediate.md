@@ -2,7 +2,7 @@
 title: Day 7-iOS Intermediate
 date: 2016-09-13T12:08:38.000Z
 ---
-![Day 7](/img/blog/day7.jpg)
+![Day 7](/assets/images/day7.jpg)
 
 Timeline:
 

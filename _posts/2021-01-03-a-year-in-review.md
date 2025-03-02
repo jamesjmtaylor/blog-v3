@@ -2,7 +2,7 @@
 title: A Year in Review
 date: '2021-01-03T08:19:38-08:00'
 ---
-![Plague Inc. game poster](/img/blog/plague.png)
+![Plague Inc. game poster](/assets/images/plague.png)
 
  Last year I [posted my New Years's resolutions](https://jjmtaylor.com/post/new-years-resolutions/) and discussed my hopes and ambitions for 2020.  Needless to say, things didn't exactly go as planned.  I had three resolutions.   The first was to do 3 sets of push ups every day.  As the pandemic unfolded that evolved into "do 50 push-ups prior to each serving of alcohol that I consumed.  Generally that meant 50-100 pushups a day, translating into roughly 20,000 pushups over the course of the year.  The second was to  limit my gaming to 7 hours a week.  The lockdown very quickly put the kibosh on that as gaming over Discord became my only social outlet. The third was to write a trading algorithm that integrates with an online trading RESTful API. <a href="https://www.strategic-options.com/insight/2019/06/13/the-best-and-worst-stock-and-option-trading-apis/"> I used this developer's blog as a point of entry</a> and pursued his recommendation concerning TD Ameritrade.  I immediately ran into various issues with the API.  I spent a couple weeks on the project, contacted support (which was unresponsive), and finally abandoned the project.  [Reading through his update](https://www.strategic-options.com/insight/2020/05/17/update-2020-the-best-and-worst-stock-futures-and-option-trading-apis/), it appears that I wasn't the only one who ran into issues.
 

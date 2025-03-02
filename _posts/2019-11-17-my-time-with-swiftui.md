@@ -2,7 +2,7 @@
 title: My time with SwiftUI
 date: '2019-11-17T07:32:20-08:00'
 ---
-![SwiftUI Icon](/img/blog/swiftui.png)
+![SwiftUI Icon](/assets/images/swiftui.png)
 
 Back in September I got a notice from Apple that one of my personally developed apps, the <a href=" https://apps.apple.com/us/app/wrd-calculator/id1148696352?ls=1"> WRD Calculator</a>, would be removed from the store in one month if I didn't update it.   Apple also released MacOS Catalina that month.  Given this conjunction of events my mission was clear: update my Macbook Pro's OS and rebuild my app using SwiftUI (which requires Catalina to develop with).  Working mornings and weekends I hacked together a new app, converting what had been an Ionic abomination of HTML, CSS, and Typescript into a purely native mobile application.  Along the way I learned a lot about SwiftUI's strengths and weaknesses. 
 

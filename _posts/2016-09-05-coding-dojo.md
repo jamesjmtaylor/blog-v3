@@ -2,7 +2,7 @@
 title: Coding Dojo
 date: 2016-09-05T13:21:29.000Z
 ---
-![Cyber sub-zero](/img/blog/cyber.jpg)
+![Cyber sub-zero](/assets/images/cyber.jpg)
 
 Today is my first day of Coding Dojo! I’m super excited to take the first step along the path to becoming a cyber ninja!  For the next month I plan to document my adventure in detail, so accordingly the frequency of my updates will increase to one post a day.  Once I’m finished I’ll go back to our regularly scheduled programming of weekly entries.  
 

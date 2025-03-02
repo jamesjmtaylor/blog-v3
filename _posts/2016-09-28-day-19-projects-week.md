@@ -2,7 +2,7 @@
 title: Day 19-Projects Week
 date: 2016-09-28T05:41:38-07:00
 ---
-![Day 19](/img/blog/day19.jpg)
+![Day 19](/assets/images/day19.jpg)
 
 * 0730-Arrived early to get as much headway with Alamofire and SwiftyJSON as possible and… it doesn’t compile.  xCode tells me there are now over 800 errors with the two pods.  Apparently both of the libraries are still written in Swift 2.  At some point Swift tried to update them to Swift 3 and it broke everything.
 * 0900-After fighting it for over an hour I gave up.  Everyone did their mini-scrum with David and then we started working on our projects again.  I’ve asked David to help me with conventional JSON parsing and callbacks. 

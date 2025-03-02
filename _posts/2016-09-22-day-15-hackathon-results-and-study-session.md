@@ -2,7 +2,7 @@
 title: Day 15-Hackathon Results and Study Session
 date: 2016-09-22T05:34:13-07:00
 ---
-![Day 15](/img/blog/day15.jpg)
+![Day 15](/assets/images/day15.jpg)
 
 Timeline:
 * 0730-I open up the project and start work.  David’s already in, so I ask him about how I might stagger my JSON requests so that they execute in a particular order (since all JSON requests are asynchronous).  He’s got me up and running with a recursive chain of JSON queries inside of 15 minutes.  

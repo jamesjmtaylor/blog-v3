@@ -2,7 +2,7 @@
 title: Vibe Check
 date: '2024-11-21T08:47:42-08:00'
 ---
-![Vibe check post](/img/blog/vibecheck.png)
+![Vibe check post](/assets/images/vibecheck.png)
 
 It's been a pretty tumultuous month.  Amidst work, contracting, family responsibilities, the election, and Intermediate Climb School I feel like I've been stretched pretty thin.  I've also been struggling with what exactly to write.  I didn't want to get too far into the politics of what just happened because it's been covered by far more competent people than me in a level of detail I couldn't hope to match.  Suffice it to say I hope this serves as the DNC's wake-up call that the era of identity politics is dead and that we need to come up with a value proposition that the silent majority, not just the  democratic base, can get behind.
 

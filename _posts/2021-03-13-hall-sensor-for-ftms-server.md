@@ -2,7 +2,7 @@
 title: Hall Sensor FTMS Server
 date: '2021-03-13T10:36:24-08:00'
 ---
-![Hall Sensor](/img/blog/hall.gif)
+![Hall Sensor](/assets/images/hall.gif)
 
 I've made quite a bit of progress on my FTMS server for my bike.  I've settled on a hardware configuration and completed the firmware implementation.  Now I just need to solder it together and 3d print an enclosure!  In the process I've learned a lot about Arduino, C, C++, and Hall sensors.  For those that haven't worked with Hall sensors before, they detect electromagnetic fields and generate either an analog or digital signal based on the magnitude of their force.
 
@@ -32,11 +32,11 @@ I ultimately decided against this approach for the same reason as the first; the
 
 I had to look up the meaning of the "\&" operator shown above because it's not normally used in higher-level languages like Swift and Kotlin.  Its purpose is to retrieve the actual memory address of a prefixed variable. The "\*" operator is similar in that it provides a pointer to a variable's memory address.  A pointer provides an additional layer of safety above direct memory address access in that they can be set to null.  This prevents you from accessing unallocated or garbage memory. In C and C++ programming you can accidently corrupt memory, causing undefined behavior when accessing other, unrelated variables.  The best way to troubleshoot these issues is by using a _[memory profiler like this.](http://www.secretlabs.de/projects/memprof/)_  Speaking of memory, both C and C++ by default are pass-by-value, not pass by reference like a lot of higher level languages.  I filched an diagram of pass-by-value from the excellent Java blog [Dzone](https://dzone.com/articles/pass-by-value-vs-reference-in-java), shown below:
 
-![Pass by value](/img/blog/pass-by-value.png)
+![Pass by value](/assets/images/pass-by-value.png)
 
 You can modify function parameter syntax to pass references instead of values by explicitly using the "\&" operator as shown below (graphic also from Dzone):
 
-![Pass by reference](/img/blog/pass-by-reference.png)
+![Pass by reference](/assets/images/pass-by-reference.png)
 
 For troubleshooting timing issues in the  Arduino IDE you can use the \`micros()\` function.  This returns the current time in microseconds.  This in turn allows you to detect minute differences in execution times.
 
@@ -71,6 +71,6 @@ byte bikeData[2]={(uint8_t)transmittedKph, (uint8_t)(transmittedKph >> 8)}
 
 The example above shows how the speed value, which according to the [Indoor Bike Data Characteristic ](https://www.bluetooth.com/wp-content/uploads/Sitecore-Media-Library/Gatt/Xml/Characteristics/org.bluetooth.characteristic.indoor_bike_data.xml) needs to be an unsigned 16 bit integer, can be split up across two bytes.  The first byte is captured by casting to an unsigned 8 bit integer, which truncates the leading bits.  The second byte is shifted right 8 bits and then cast, truncating the trailing bits.  The end effect is that the 16 bit integer is now split between two separate 8 bit bytes keeping the array format uniform.  This is demonstrated below with a placeholder kph of 123.05:
 
-![Byte segmentation](/img/blog/byteSegmentation.png)
+![Byte segmentation](/assets/images/byteSegmentation.png)
 
 The final lesson that I learned was that even though the ATT_MTU (ATTribute Maximum Transmission Unit) for BLE is 23 bytes, android by default only captures the first 20 bytes.  For this reason I had to limit the number of values that I sent to just instantaneous speed, average speed, instantaneous cadence,  total distance, instantaneous power, expended energy, and elapsed time.

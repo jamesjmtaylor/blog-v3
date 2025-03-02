@@ -2,7 +2,7 @@
 title: Jetpack Compose Lessons Learned
 date: '2024-02-04T16:11:37-08:00'
 ---
-![Winter Landscape](/img/blog/winterlandscapejpeg.jpeg)
+![Winter Landscape](/assets/images/winterlandscapejpeg.jpeg)
 
 Over the past couple months I've had the opportunity to refactor large swaths of our app user interface from XML to jetpack compose.  Throughout the process I've come to gain an appreciation for some of the sharp edges that jetpack compose still has as February 2024.  My hope is that by reading this blog post you might avoid cutting yourself on the currently jagged APIs of compose, at least in the same places that I did. 
 

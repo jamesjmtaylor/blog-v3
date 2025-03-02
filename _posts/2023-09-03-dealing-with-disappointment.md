@@ -2,7 +2,7 @@
 title: Dealing with Disappointment
 date: '2023-09-03T11:35:32-07:00'
 ---
-![Disappointment](/img/blog/disappointment.png)
+![Disappointment](/assets/images/disappointment.png)
 
 At the start of the year I wrote a [blog entry](https://jjmtaylor.com/post/2023-resolutions/) outlining my goals for the year, specifically:
 

@@ -2,7 +2,7 @@
 title: AAR pt 7 (Android Architecture Components)
 date: '2018-03-18T06:15:05-07:00'
 ---
-![Model-View-ViewModel](/img/blog/mvvm.jpg)
+![Model-View-ViewModel](/assets/images/mvvm.jpg)
 
 If you haven’t had a chance to read the first entry in the series for context, <a href="/post/after-action-review-aar/">you can do so here</a>
 

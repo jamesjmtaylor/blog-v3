@@ -2,7 +2,7 @@
 title: Day 4-Hackathon
 date: 2016-09-09T11:54:00.000Z
 ---
-![Day 4](/img/blog/day4.jpg)
+![Day 4](/assets/images/day4.jpg)
 
 Timeline:
 * 0745-Continue work on the Calculator App.

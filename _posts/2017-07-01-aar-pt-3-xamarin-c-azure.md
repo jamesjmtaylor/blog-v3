@@ -28,4 +28,4 @@ If you haven't had a chance to read the first entry in the series for context, [
 * Exchange Web Server (EWS) and on-premise Exchange will throttle excessive API requests automatically.  O365 will not.
 
 
-![Xamarin](/img/blog/xamarin.jpg)
+![Xamarin](/assets/images/xamarin.jpg)

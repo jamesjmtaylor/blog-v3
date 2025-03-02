@@ -13,31 +13,31 @@ iOS Subscriptions are controlled through Apple App Store Connect.
 Subscriptions can be viewed, created, modified, and deleted by selecting the relevant app in App Store Connect. From there, navigate to **Features **in the top navigation bar and select** In-App Purchases** in the left drawer.  Any new subscription must be added to a subscription group.  Users can only have one subscription active from a subscription group at a time. 
 To modify subscription pricing select **View all Subscription Pricing** under the **Subscription Prices** section
 
-![iOS Subscriptions](/img/blog/iosSub0.png)
+![iOS Subscriptions](/assets/images/iosSub0.png)
 
 In the **Subscription Prices** tab of the new screen select** Starting Price** below the Current Prices title:
 
-![iOS Subscriptions](/img/blog/iosSub1.png)
+![iOS Subscriptions](/assets/images/iosSub1.png)
 
 Tap **Edit Price Change** in the new screen that appears:
 
-![iOS Subscriptions](/img/blog/iosSub2.png)
+![iOS Subscriptions](/assets/images/iosSub2.png)
 
 Finally select **Recalculate prices for all territories** and follow the instructions.
 
-![iOS Subscriptions](/img/blog/iosSub3.png)
+![iOS Subscriptions](/assets/images/iosSub3.png)
 
 The product Id that you assign to new subscriptions must be declared & referenced in the SubscriptionService.swift class that you create in the app.  The product ids are build bundle id specific, since available subscriptions are managed by bundle id.   If you need to make the app available in more countries then navigate to the **Pricing and Availability** tab in the left drawer of App Store Connect and modify the countries you want to offer the app in in the **Availability** section.
 
 **_Subscription Testing_**
 
-![iOS Subscriptions](/img/blog/iosSub4.jpg)
+![iOS Subscriptions](/assets/images/iosSub4.jpg)
 
 Testing of subscriptions is done from within the app.  The app must be downloaded from Testflight and the test account must be registered in the App Store Connect Testers Group (Labeled **Testers** in the left drawer of the **Users and Access** section of App Store Connect). Users from this list will be prompted to pay for their subscription just like a normal user would, but their accounts only receive simulated Apple Pay subscription charges.
 
 To test international pricing you must change the Country/Region of the Sandbox iCloud account. This can be done by following the steps below:
 
-![iOS Subscriptions](/img/blog/iosSub5.jpeg)
+![iOS Subscriptions](/assets/images/iosSub5.jpeg)
 
 1. Launch **Settings **from your Home screen.
 2. Tap on** iTunes & App Store**.
@@ -63,7 +63,7 @@ Android Subscriptions are controlled through the Google Play Console.
 Subscriptions can be viewed, created, and modified by selecting the relevant app, navigating to** Store Presence** in the left drawer and selecting** In-app products**. From there you can select **Subscriptions **in the top navigation bar.  
 You may need to setup a merchant account before the screen is available.  You will also need to add billing permissions to your APK, otherwise the you will receive the screen below:
 
-![Android Subscriptions](/img/blog/aosSub0.png)
+![Android Subscriptions](/assets/images/aosSub0.png)
 
 Once you have created a subscription you can control the price (to include locale pricing), billing period, grace period, and free trial period.  You can also add translations that allow you to create locale specific entries with their own descriptions & prices. Be aware that not all languages have an associated country, which means that either the subscription description must omit the price or that the description translation must apply to all the countries for that language.
 
@@ -73,7 +73,7 @@ The product Id that you assign to new subscriptions must be declared & reference
 
 Testing of subscriptions should be done from within an internal build of a staging app in the Google Play Console. This should be done to avoid affecting subscription values for the production app, since subscription settings cannot be decoupled from their associated app id.  The staging app must be downloaded from the internal testing link and the test account must be registered in the Testers group, editable through **Release Management** → **App Releases** → **Internal Test** → **Manage Testers** (See below).  
 
-![Android Subscriptions](/img/blog/aosSub1.png)
+![Android Subscriptions](/assets/images/aosSub1.png)
 
 Attempting to download the app from an alternative source (i.e. HockeyApp) will prevent the app from resolving the Google Play in-app purchase SKUs.
 

@@ -2,7 +2,7 @@
 title: Rust - Initial Impressions
 date: '2023-02-04T06:31:14-08:00'
 ---
-![Robot Crab](/img/blog/krabs.jpg)
+![Robot Crab](/assets/images/krabs.jpg)
 
 As part of my New Year's resolution I've been studying the Rust programming language with the ultimate goal of building a bot for the game StarCraft (hence the robot Mr. Krabs, since the Rust mascot is a crab and my end goal is to build a bot with it).  
 
