@@ -4,13 +4,13 @@ date: '2023-09-03T11:35:32-07:00'
 ---
 ![Disappointment](/assets/images/disappointment.png)
 
-At the start of the year I wrote a [blog entry](https://jjmtaylor.com/post/2023-resolutions/) outlining my goals for the year, specifically:
+At the start of the year I wrote a [blog entry](https://jjmtaylor.com/2023-resolutions/) outlining my goals for the year, specifically:
 
 * Learn Rust. Use it to build a StarCraft bot.
 * Climb three new mountains.
 * Complete the Mazamas Intermediate Climbing School (ICS)
 
-I accomplished the first goal pretty early on.  You can read about it [here](https://jjmtaylor.com/post/starcraft-rust-bot/).  The second took a little longer, but I eventually summitted three new mountains, [Mt. Hood](https://www.fs.usda.gov/mthood), [Old Snowy](https://www.wta.org/go-hiking/hikes/old-snowy-mountain-elk-pass), and [Three Finger Jack](https://www.alltrails.com/trail/us/oregon/three-fingered-jack-via-pacific-crest-trail). In order to complete Intermediate Climbing School however, I first had to be accepted.
+I accomplished the first goal pretty early on.  You can read about it [here](https://jjmtaylor.com/starcraft-rust-bot/).  The second took a little longer, but I eventually summitted three new mountains, [Mt. Hood](https://www.fs.usda.gov/mthood), [Old Snowy](https://www.wta.org/go-hiking/hikes/old-snowy-mountain-elk-pass), and [Three Finger Jack](https://www.alltrails.com/trail/us/oregon/three-fingered-jack-via-pacific-crest-trail). In order to complete Intermediate Climbing School however, I first had to be accepted.
 
 I accomplished all the pre-requisites well in advance.  I volunteered with the Mazamas, teaching courses, performing trail maintenance, and leading hikes. I spent hours painstakingly crafting my ICS application essays and climbing resume. I also aced the ICS entrance exam, performing better than many of my peers.  
 

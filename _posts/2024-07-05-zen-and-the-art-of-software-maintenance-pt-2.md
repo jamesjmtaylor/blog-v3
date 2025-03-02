@@ -4,7 +4,7 @@ date: '2024-07-05T09:12:12-07:00'
 ---
 ![Motorcycle Maintenance](/assets/images/maintenance.jpg)
 
-Welcome to the second part of my summary of the concepts of <u>Zen and The Art of Motorcycle Maintenance</u> by Robert Pirsig as they apply to software development.  You can read the first part [here](https://jjmtaylor.com/post/zen-and-the-art-of-software-maintenance/). 
+Welcome to the second part of my summary of the concepts of <u>Zen and The Art of Motorcycle Maintenance</u> by Robert Pirsig as they apply to software development.  You can read the first part [here](https://jjmtaylor.com/zen-and-the-art-of-software-maintenance/). 
 
 In the book Pirsig outlines a motivating force he defines as "enthusiasm." In the previous post we covered external forces (or "setbacks" as Pirsig calls them) that can erode your enthusiasm for a project over time.  Today we'll be covering internal forces (or "hangups") that can drain enthusiasm.  
 
