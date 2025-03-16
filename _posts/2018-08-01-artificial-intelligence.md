@@ -2,7 +2,7 @@
 title: Artificial Intelligence
 date: '2018-08-01T07:04:00-07:00'
 ---
-![Mechanical Turk](/assets/turk.jpg)
+![Mechanical Turk](/blog-v3/assets/turk.jpg)
 
 A podcast that I listen to, the Coder Radio, recently discussed how overhyped the field of Artificial Intelligence was and how the marketing departments of companies use the term when they shouldn’t.  Which got me to thinking about when the term artificial intelligence should & shouldn’t apply.  Intelligence is defined by Google Dictionary as “the ability to acquire and apply knowledge”.  Pretty straightforward.  IQ tests after all are claimed to be biased against the uneducated because they test the application of knowledge that some individuals haven’t had a chance to acquire.  Artificial is a little more complicated.  Again, the Google definition is “made or produced by human beings rather than occurring naturally.”  But I would argue that to be more fitting definition of the word ‘synthetic’ than ‘artificial’.  Instead I’d look at the root of the word, which is artifice, or “clever or cunning devices or expedients, especially as used to trick or deceive others.”  By that definition, it would seem the marketing department would be well within their rights to call anything they wanted “Artificial Intelligence” as long as it posed at least a decent imitation of skill to the layperson.  
 

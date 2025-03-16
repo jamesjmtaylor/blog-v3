@@ -2,7 +2,7 @@
 title: StarCraft Rust Bot
 date: '2023-03-05T08:01:13-08:00'
 ---
-![StarCraft 2 logo](/assets/sc2.jpg)
+![StarCraft 2 logo](/blog-v3/assets/sc2.jpg)
 
 I finished my StarCraft Rust Bot!  It's now good enough to beat the hardest AI that ships with the game. All in only 152 lines. You can see the original source code [here](https://github.com/jamesjmtaylor/rust/tree/main/sc2_bot).  Even though the code itself is brief, the journey to creating and testing it was not.
 

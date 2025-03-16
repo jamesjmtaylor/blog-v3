@@ -2,7 +2,7 @@
 title: One IDE to Rule them All
 date: 2018-02-01T05:05:46-08:00
 ---
-![One Ring](/assets/onering.jpg)
+![One Ring](/blog-v3/assets/onering.jpg)
 
 Most developers are pretty strongly opinionated about the IDE (Integrated Development Environment) that they use.  I will probably be no different eventually, but right now I’m still struggling to find Mr. Right.  My first enterprise IDE was Eclipse Helios, way back in 2010.  Prior to that I used some gosh-awful Ada native IDE that the government used to program tank ballistics computers and nuclear missiles.  Eclipse at the time was awesome by comparison.  It even had plugins for subversion!  
 

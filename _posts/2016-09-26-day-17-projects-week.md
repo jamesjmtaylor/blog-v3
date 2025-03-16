@@ -2,7 +2,7 @@
 title: Day 17-Projects Week
 date: 2016-09-26T05:38:31-07:00
 ---
-![Day 17](/assets/day17.jpg)
+![Day 17](/blog-v3/assets/day17.jpg)
 
 Timeline:
 * 0745-I applied to some jobs on Saturday.  It usually takes a couple weeks for responses to percolate, so I figure it’s a good time to get cracking.  

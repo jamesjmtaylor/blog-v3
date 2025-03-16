@@ -2,7 +2,7 @@
 title: Real-World Applications of Leetcode
 date: '2023-10-03T06:42:34-07:00'
 ---
-![Call For Fire](/assets/cff.jpg)
+![Call For Fire](/blog-v3/assets/cff.jpg)
 
 As I've been grinding through LeetCode problems I've been reminded of some of the real-world applications of the algorithms used during my past life as an Army officer.  The "Call For Fire" (CFF) is one such example.  
 
@@ -32,7 +32,7 @@ The direction called in  the penultimate transmission is given in mils (not degr
 
 These adjustments aren't performed randomly however.  They utilize a type of binary search pattern, known as bracketing, as illustrated below:
 
-![Bracketing](/assets/bracketing.png)
+![Bracketing](/blog-v3/assets/bracketing.png)
 
 In the search, the FO adjusts the round more than twice the distance of what he thinks it should require.  If the impact is on the other side of the target the bracket is successful and he can adjust in the other direction by half the distance of the previous adjustment.  This is done until a round lands within 50 meters of the target. Once the target has been successfully bracketed, the FO requests that the remaining guns in the battery fire with "Fire for effect, over".
 

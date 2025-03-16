@@ -2,7 +2,7 @@
 title: Day 20-Projects Week
 date: 2016-09-29T05:42:59-07:00
 ---
-![Day 20](/assets/day20.jpg)
+![Day 20](/blog-v3/assets/day20.jpg)
 
 * 0730-I’m starting work on the Gwent Deck manager today.  It’ll be the last full day to work on projects so I’ll have to get as much done as possible.
 * 0900-We had our projects mini-scrum again.  It looks like all the groups are coming along nicely.  I’m looking forward to seeing what each has to present tomorrow.

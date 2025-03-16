@@ -2,7 +2,7 @@
 title: The Squash Merge
 date: '2024-08-10T08:55:16-07:00'
 ---
-![Squash Merge Flow](/assets/squashmerge.png)
+![Squash Merge Flow](/blog-v3/assets/squashmerge.png)
 
 I recently took up a contract job where the developers use the squash merge option in GitHub.  According to [GitHub's documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges) "When you select the Squash and merge option on a pull request on GitHub.com, the pull request's commits are squashed into a single commit. Instead of seeing all of a contributor's individual commits from a topic branch, the commits are combined into one commit and merged into the default branch."  When I asked the developers why they chose this option, the explanations were pretty typical:
 

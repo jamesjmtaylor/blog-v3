@@ -2,7 +2,7 @@
 title: AAR pt 15 (Architecture/Software Engineering)
 date: '2019-10-05T09:41:08-07:00'
 ---
-![Blueprint](/assets/blueprint.jpg)
+![Blueprint](/blog-v3/assets/blueprint.jpg)
 
 If you haven’t had a chance to read the first entry in the series for context, <a href="/post/after-action-review-aar/">you can do so here</a>
 

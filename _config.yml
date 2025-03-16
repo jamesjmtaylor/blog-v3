@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/avatar.jpg"
+  avatar : "/blog-v3/assets/avatar.jpg"
   bio    : "Hi! I'm James, a dedicated polyglot mobile developer based in Portland, OR."
   links:
 

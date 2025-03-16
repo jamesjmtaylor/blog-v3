@@ -2,7 +2,7 @@
 title: I have arrived...
 date: 2017-01-01T20:04:40.407Z
 ---
-![Steelcase office](/assets/steelcase.jpg)
+![Steelcase office](/blog-v3/assets/steelcase.jpg)
 
 Happy New Year!  I realize that I’ve been gone for a bit, but a lot has happened since.  I recently got a full time
 position with Steelcase in Portland, Oregon as a software developer on their new mobile team.  The idea is that we’ll 

@@ -2,7 +2,7 @@
 title: AAR pt 8 (Architecture/Software Engineering)
 date: '2018-07-01T07:08:20-07:00'
 ---
-![Android architecture](/assets/architecture.jpg)
+![Android architecture](/blog-v3/assets/architecture.jpg)
 
 If you haven’t had a chance to read the first entry in the series for context, <a href="/post/after-action-review-aar/">you can do so here</a>
 
