@@ -2,7 +2,7 @@
 title: KMM Android Presentation layer
 date: '2022-11-05T08:45:21-07:00'
 ---
-![Stormy beach](/assets/images/compose.jpg)
+![Stormy beach](/assets/compose.jpg)
 
 This is the second to last entry in a multi-part series on Kotlin Multiplatform Mobile.  This entry will cover implementation of a Jetpack Compose UI for the Android app.  I'm using the Army's brand new [ODIN API ](https://odin.tradoc.army.mil/WEG) for a reboot of my WEG iOS and Android applications.  The ODIN API provides in-depth information about a wide array of military equipment.  
 
@@ -159,6 +159,6 @@ fun EquipmentCard(
     }
 }
 ```
-![Android weg app](/assets/images/land.png)
+![Android weg app](/assets/land.png)
 
 If you want to see the full source code it's available \\\[here](https://github.com/jamesjmtaylor/weg-kmm).

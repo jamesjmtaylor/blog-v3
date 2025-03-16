@@ -2,7 +2,7 @@
 title: AAR pt 14 (Security)
 date: '2019-08-01T08:54:48-07:00'
 ---
-![Security](/assets/images/security.jpg)
+![Security](/assets/security.jpg)
 
 If you have not had a chance to read the first entry in the series for context, <a href="/post/after-action-review-aar/">you can do so here</a> 
 

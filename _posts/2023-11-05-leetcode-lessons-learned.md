@@ -34,7 +34,7 @@ class Solution {
 
 This solution passed all the tests and was middle of the road in terms of memory usage, but wasn't really that performant in terms of speed, as shown below:
 
-![CharArray Performance](/assets/images/chararray.png)
+![CharArray Performance](/assets/chararray.png)
 
 So I looked at the editorial to see the "preferred" solution.  That's when I saw that they were using a StringBuilder.  I copied their solution (shown below) into my code window and ran it to see how it performed.
 
@@ -62,7 +62,7 @@ class Solution {
 
 and I got the following results:
 
-![StringBuilder Performance](/assets/images/stringbuilder.png)
+![StringBuilder Performance](/assets/stringbuilder.png)
 
 While not a huge difference in absolute terms (26 ms and 2 MB in speed and memory usage respectively), it made a vast improvement in the relative efficiency of the solution compared to the average submission.
 

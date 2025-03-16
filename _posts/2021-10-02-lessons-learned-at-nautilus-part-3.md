@@ -2,7 +2,7 @@
 title: Lessons Learned at Nautilus (Part 3)
 date: '2021-10-02T09:22:43-07:00'
 ---
-![Droid](/assets/images/droid.png)
+![Droid](/assets/droid.png)
 
 In my two and a half years at Nautilus I learned a tremendous amount about IoT, Hardware, Software, Data Science, and myself in general.  This will be the last entry in my Nautilus lessons learned series and will cover how hardware can unintentionally impact software and the benefits of the Android OS for IoT.
 

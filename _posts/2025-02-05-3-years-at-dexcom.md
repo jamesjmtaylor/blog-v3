@@ -2,7 +2,7 @@
 title: 3 years at Dexcom!
 date: '2025-02-05T08:40:02-08:00'
 ---
-![Dexcom Logo](/assets/images/dexcom.jpg)
+![Dexcom Logo](/assets/dexcom.jpg)
 
 This months officially marks three years at Dexcom.  This is also the longest that I've worked at any single company outside of the Army. In that time I've worked on three different mobile applications (Clarity, Stelo, and Follow), contributed to two different SDKs (the App Components SDK and the Phoenix SDK), and had one helluva time.
 

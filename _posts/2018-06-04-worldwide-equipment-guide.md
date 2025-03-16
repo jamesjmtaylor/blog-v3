@@ -2,7 +2,7 @@
 title: Worldwide Equipment Guide
 date: '2018-06-04T04:59:15-07:00'
 ---
-![WEG Cover](/assets/images/cover.png)
+![WEG Cover](/assets/cover.png)
 
 It's been a while since I last posted.  Truth be told I've been rather busy with the final release of my Worldwide Equipment Guide 2015 apps for iOS and Android.  I released the [Android app](https://play.google.com/store/apps/details?id=com.jamesjmtaylor.weg2015) at the end of April.  The [iOS app](https://itunes.apple.com/us/app/worldwide-equipment-guide-2015/id1392413944?ls=1&mt=8) was just recently (as of June 1st) released.  I've already received some really positive feedback from the Army as well as some feature requests they'd like.  Top on the list is filtering by region or country to aid soldiers in preparation for a particular theater of operations. 
 

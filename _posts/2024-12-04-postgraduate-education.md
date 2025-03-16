@@ -2,7 +2,7 @@
 title: Postgraduate Education
 date: '2024-12-04T08:11:57-08:00'
 ---
-![Oregon State University logo](/assets/images/osu.png)
+![Oregon State University logo](/assets/osu.png)
 
 As the year winds down I've decided to apply to Oregon State University's Online Master's in Computer Science program.  If accepted, I would start in the fall of 2025.  There’s a number of reasons behind the decision.  A graduate program would be a good way to brush up on the CS fundamentals that I picked up during my undergraduate.  I’d also like to teach some day, either at the high school or collegiate level, and for that I need a masters degree.  I also really enjoy school in general and learning new skills in particular.  Finally, my current employer, Dexcom, offers tuition assistance up to $5,250 a year, so it felt like I was leaving money on the table by not taking advantage of the offer for tuition assistance.  
 

@@ -2,7 +2,7 @@
 title: Swift & HackerRank (Part 1)
 date: '2021-11-28T07:01:40-08:00'
 ---
-![Swift and Hacker Rank](/assets/images/swifthackerrank.png)
+![Swift and Hacker Rank](/assets/swifthackerrank.png)
 
 I recently practiced coding challenges on HackerRank with Swift.  The reason being my day job consists almost exclusively of C# development, so a little bit of hacking with Swift seemed like a good idea to keep my native development skills sharp.  This would mean going back and implementing basic algorithms and data structures in Swift.
 

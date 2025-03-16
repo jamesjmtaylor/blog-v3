@@ -2,7 +2,7 @@
 title: Day 6-iOS Intermediate
 date: 2016-09-12T05:06:11-07:00
 ---
-![Day 6](/assets/images/day6.jpg)
+![Day 6](/assets/day6.jpg)
 
 Timeline:
 

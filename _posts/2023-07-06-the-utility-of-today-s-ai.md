@@ -2,7 +2,7 @@
 title: The Utility of Today's AI
 date: '2023-07-06T06:18:39-07:00'
 ---
-![I for one welcome our new robot overlords.](/assets/images/robotoverlord.png)
+![I for one welcome our new robot overlords.](/assets/robotoverlord.png)
 
 [Last month's article](https://jjmtaylor.com/rust-queue-performance/) foreshadowed this article's topic a bit with the sources cited at the bottom.  ChatGPT generated the Rust code snippets after I told it "Write a Rust queue using a linked list." I had to specify that it use a linked list, otherwise ChatGPT would have imported the Rust queue library which uses a less efficient vector implementation. DALL-E generated the image when provided the title of the article, "Rust queue performance."
 

@@ -2,7 +2,7 @@
 title: AAR pt 13 (Bluetooth)
 date: '2019-06-01T08:32:00-07:00'
 ---
-![Bluetooth icon](/assets/images/bluetooth-icon.png)
+![Bluetooth icon](/assets/bluetooth-icon.png)
 
 If you have not had a chance to read the first entry in the series for context, <a href="/post/after-action-review-aar/">you can do so here</a> 
 

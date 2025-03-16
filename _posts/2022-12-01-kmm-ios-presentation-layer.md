@@ -2,7 +2,7 @@
 title: KMM iOS Presentation layer
 date: '2022-12-01T07:39:00-08:00'
 ---
-![Desert](/assets/images/desert.jpg)
+![Desert](/assets/desert.jpg)
 
 This is the last entry in a multi-part series on Kotlin Multiplatform Mobile.
 
@@ -152,7 +152,7 @@ struct EquipmentLazyVGrid: View {
 }
 ```
 
-![iOS WEG App](/assets/images/iosweg.png)
+![iOS WEG App](/assets/iosweg.png)
 
 By now I'm sure you've noticed a lot of similarities between the components in Jetpack Compose and SwiftUI.  They both even have a Lazy Vertical Grid, with LazyVerticalGrid for Android and LazyVGrid for iOS!  That being said, I did find it marginally easier to reason about SwiftUI. Swift simply doesn't have to deal with all the backstack baggage that Android does.  Creating the routes, destinations, NavHosts, and NavControllers that I did in Jetpack Compose wasn't necessary in SwiftUI.  Instead, view relationships were handled implicitly and elegantly.  I'm sure there are instances when you might want the extra flexibility afforded by Android explicit implementation, but as far as this project is concerned, it's just more stuff to potentially screw up.
 

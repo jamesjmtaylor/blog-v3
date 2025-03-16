@@ -2,7 +2,7 @@
 title: Leetcode Grinding
 date: '2023-08-05T07:07:15-07:00'
 ---
-![Skateboard Grind](/assets/images/grind.png)
+![Skateboard Grind](/assets/grind.png)
 
 The past couple months I've been working my way through different LeetCode problems because they force me to grapple with challenges that I don't really see in my day to day work.  I've shifted from HackerRank in order to increase the variety of questions that I see. The problems I've been working on are part of a curated set called "[LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)".  These cover string operations, two pointer problems, sliding windows, prefix sums, stacks, queues, linked lists, binary trees, graphs, depth first/breadth first search, heaps, bits, and dynamic programming.  I've completed about a dozen so far. 
 

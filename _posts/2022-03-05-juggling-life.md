@@ -2,7 +2,7 @@
 title: Juggling Life
 date: '2022-03-05T07:12:40-08:00'
 ---
-![Juggling](/assets/images/juggling.jpg)
+![Juggling](/assets/juggling.jpg)
 
 The last few blog posts have been a little more on the technical side, so to keep it balanced I figured I'd discuss  my odyssey of juggling individual development, side-hustles, a full-time job, and raising a family.  I'll save an in-depth discussion of Kotlin Multi-Platform Project for next time.  
 

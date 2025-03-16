@@ -2,7 +2,7 @@
 title: Day 2-Intro to iOS
 date: 2016-09-08T11:47:26.000Z
 ---
-![Day 2](/assets/images/day2.jpg)
+![Day 2](/assets/day2.jpg)
 
 Timeline:
 

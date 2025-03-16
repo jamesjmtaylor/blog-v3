@@ -2,7 +2,7 @@
 title: Rust Queue Performance
 date: '2023-06-05T06:12:42-07:00'
 ---
-![null](/assets/images/rustqueue.jpg)
+![null](/assets/rustqueue.jpg)
 
 After creating my Starcraft Rustbot and then comparing queue performance in Kotlin and Swift, I naturally began to wonder about the performance of a queue in Rust. How would a language billed as performant as C compare? Are there truly significant gains for operating "close to the metal", or have the Swift and Kotlin compilers developed to a point where they can optimize to a similar level of performance?
 
@@ -124,7 +124,7 @@ fn main() {
 
 The results were as follows:
 
-![Kotlin and Rust Results](/assets/images/rustresults.png)
+![Kotlin and Rust Results](/assets/rustresults.png)
 
 The table above shows three Kotlin runs (KR1 through 3) and three Rust runs (RR1 through 3) with the number of `ITERATIONS` for each run as the column header.  Swift was omitted from the comparison because of the similarity of its performance envelope to Kotlin.  
 
