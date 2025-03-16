@@ -4,7 +4,7 @@ date: '2025-02-05T08:40:02-08:00'
 ---
 ![Dexcom Logo](/assets/images/dexcom.jpg)
 
-This months officially marks three years at Dexcom.  This is also the longest that I've worked at any single company outside of the Army. In that time I've worked on three different mobile applications (Clarity, Stelo, and Follow), contributed to two different SDKs (the App Components SDK and the Phoenix SDK), and had one helluva time. 
+This months officially marks three years at Dexcom.  This is also the longest that I've worked at any single company outside of the Army. In that time I've worked on three different mobile applications (Clarity, Stelo, and Follow), contributed to two different SDKs (the App Components SDK and the Phoenix SDK), and had one helluva time.
 
 Probably the best thing about working at Dexcom are the people that I work with.  Diabetes is a widespread and dangerous disease, and my coworkers at all levels take the job very seriously.  I'm regularly learning new things as I work with them as we encourage each other to consistently improve the product for our end users.
 
