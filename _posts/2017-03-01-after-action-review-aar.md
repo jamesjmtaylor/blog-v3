@@ -2,7 +2,7 @@
 title: After Action Review (AAR)
 date: 2017-03-01T04:53:40-08:00
 ---
-![After Action Review](/blog-v3/assets/aar.jpg)
+![After Action Review](/assets/aar.jpg)
 
 In the Army we conducted a formal retrospective after every operation that we completed, called an After Action Review (AAR).   Books like <u>Outliers</u> have found such rituals to be extraordinarily important to skills mastery.  In the work, Malcolm Gladwell posits that it takes at least 10,000 hours of deliberate practice to cultivate a world-class skill.  Part of deliberate practice is performing a critical review of performance after every session, essentially an AAR.
 

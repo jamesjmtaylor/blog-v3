@@ -2,7 +2,7 @@
 title: Zen and the Art of Software Maintenance
 date: '2024-06-01T06:03:21-07:00'
 ---
-![Zen Mountain](/blog-v3/assets/zenmountain.jpg)
+![Zen Mountain](/assets/zenmountain.jpg)
 
 I recently finished the book <u>Zen and The Art of Motorcycle Maintenance</u> by Robert Pirsig.    The book is a semi-autobiographical work that combines philosophy and self-help with a compelling personal narrative of mental illness. It's an excellent book that I highly recommend if you haven't read it already.  This post isn't specifically about the book per se, but the concepts of maintenance that Pirsig outlined as they apply to Software.
 

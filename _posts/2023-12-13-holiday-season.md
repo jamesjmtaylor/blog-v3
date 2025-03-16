@@ -2,7 +2,7 @@
 title: Holiday Season
 date: '2023-12-13T06:59:09-08:00'
 ---
-![Turkey](/blog-v3/assets/turkey.jpg)
+![Turkey](/assets/turkey.jpg)
 
 It's been a busy past few weeks.  Between Thanksgiving, Christmas shopping, a new part-time contract, family birthdays, and annual updates to my personally published mobile apps, I've had my hands full.  My regular day job responsibilities have only increased as well.  One of my new responsibilities has been the conversion of legacy xml Android layouts to Jetpack Compose user interfaces.  Over the course of this process I've really come to appreciate the declarative style of Jetpack Compose.  The ability to write tests for individual compose components has been particularly welcome.  These tests allow for test-driven user interface development and regressions in the future from the inevitable refactors that are required by the User Experience team.  I've included an example of such a test below:
 

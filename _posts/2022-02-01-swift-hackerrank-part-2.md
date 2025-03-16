@@ -2,7 +2,7 @@
 title: Swift & HackerRank (Part 2)
 date: '2022-02-01T06:46:37-08:00'
 ---
-![Swift and Hacker Rank](/blog-v3/assets/kt.png)
+![Swift and Hacker Rank](/assets/kt.png)
 
 This is the second part in the series on Swift performance.  If you haven't read the first part, <a href="/post/swift-hackerrank-part-1/">you can find it here</a>. 
 

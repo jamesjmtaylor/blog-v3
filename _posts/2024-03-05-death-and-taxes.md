@@ -2,7 +2,7 @@
 title: Death and Taxes
 date: '2024-03-05T07:04:18-08:00'
 ---
-![Tax forms](/blog-v3/assets/taxes.jpg)
+![Tax forms](/assets/taxes.jpg)
 
 It's tax season again, and in the words of Benjamin Franklin "in this world nothing can be said to be certain, except death and taxes." That's why I figured this month I'd cover some tax "gotchas" that have snared me in previous years.  I'll specifically be addressing Roth Individual Retirement Account (IRA) contribution limits as well as Employee Stock Purchase Program (ESPP) and Restricted Stock Unit (RSU) sale tax implications.  
 
@@ -22,7 +22,7 @@ You can sell ESPP shares in one of two ways:
 
 An example of a qualifying vs disqualifying adjustment is below:
 
-![Qualifying vs Disqualifying disposition](/blog-v3/assets/qualifying.jpg)
+![Qualifying vs Disqualifying disposition](/assets/qualifying.jpg)
 
 
 
@@ -32,7 +32,7 @@ The final surprise that I found was that RSU's have a similar, but thankfully si
 
 When you do sell RSUs your company reports the sale as income on your W-2.  Unfortunately the sale is also reported as income by your company's brokerage on, you guessed it, your stock plan's 1099-B. This means that if your not careful you can end up paying twice.  To resolve the issue you can check your brokerage's website for a “Stock Plan Transactions Supplement” under tax documents section in order to get your adjusted cost basis. An example is included below:
 
-![Stock Plan Transactions Supplement](/blog-v3/assets/transactions.png)
+![Stock Plan Transactions Supplement](/assets/transactions.png)
 
 Using the adjusted cost basis allows you to calculate the adjusted gain or loss, which is almost always lower than the 1099-B's gain or loss.
 

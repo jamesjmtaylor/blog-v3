@@ -2,7 +2,7 @@
 title: Day 8-iOS Intermediate
 date: 2016-09-14T12:10:10.000Z
 ---
-![Day 8](/blog-v3/assets/day8.jpg)
+![Day 8](/assets/day8.jpg)
 
 Timeline:
 

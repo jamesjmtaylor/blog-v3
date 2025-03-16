@@ -2,7 +2,7 @@
 title: Day 14-Hackathon
 date: 2016-09-21T12:32:27.000Z
 ---
-![Day 14](/blog-v3/assets/day14.jpg)
+![Day 14](/assets/day14.jpg)
 
 Timeline:
 * 0740-Apparently there’s an Amazon Alexa Hackathon today at the dojo in addition to the Swift Hackathon that the class will be conducting.  I went ahead and registered for the event on Meetup and rebooted my Amazon developer account out of suspended animation.  I also looked into some existing web services for ideas on the Swift JSON hackathon.

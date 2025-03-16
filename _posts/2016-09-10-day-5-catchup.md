@@ -2,7 +2,7 @@
 title: Day 5-Catchup
 date: 2016-09-10T05:04:32-07:00
 ---
-![Day 5](/blog-v3/assets/day5.jpg)
+![Day 5](/assets/day5.jpg)
 
 Timeline:
 

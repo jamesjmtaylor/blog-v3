@@ -2,7 +2,7 @@
 title: Daily Schedule
 date: 2016-08-15T20:04:40.407Z
 ---
-![Schedule](/blog-v3/assets/schedule.jpg)
+![Schedule](/assets/schedule.jpg)
 
 If you haven’t already, I’d highly recommend looking into the website and app 
 <a href="https://www.meetup.com/" title="Meetup" target="_blank" rel="external">Meetup</a>. 

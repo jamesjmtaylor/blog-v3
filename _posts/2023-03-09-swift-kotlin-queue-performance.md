@@ -2,7 +2,7 @@
 title: Swift & Kotlin Queue Performance
 date: '2023-03-09T06:40:19-08:00'
 ---
-![Queue](/blog-v3/assets/queue.png)
+![Queue](/assets/queue.png)
 
 This is an expansion on two articles that I did about this time last year: 
 
@@ -115,11 +115,11 @@ class Queue<T> {
 
 And now on to the results!
 
-![Results](/blog-v3/assets/data.png)
+![Results](/assets/data.png)
 
 Both Swift and Kotlin performed poorly on the first 1,000 enqueues and dequeues.  This was probably due to initialization of the the instrumentation taking a disproportionately large amount of time.  Once we got into 10,000 operations and above however, the time per enqueue and dequeue leveled off significantly.
 
-![Graphs](/blog-v3/assets/graphs.png)
+![Graphs](/assets/graphs.png)
 
 Kotlin still outperformed Swift by an order of magnitude, but on average both Swift and Kotlin exhibited constant time (O(1)) enqueue and dequeue performance, confirming the hypothesis.  
 

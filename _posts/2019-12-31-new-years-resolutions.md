@@ -5,16 +5,16 @@ date: '2019-12-31T06:31:52-08:00'
 For me, New Year's is the most decisive holiday possible and one of the most important.  It represents a clean break from last year and an opportunity to excel in the next one. For the past two years running I've made it a point to have some kind of new year's resolutions to strive towards.  In 2018 it was to learn a new programming language (Kotlin), a new framework (Jetpack), and to make a meaningful contribution to Github at least once per day.  The idea being that daily contributions meant daily improvement in my craft.  What was particularly nice about the last resolution was that the accountability device was embedded directly into my profile on the Github website.  If I failed to make a contribution it was recorded for time immemorial.  What I didn't realize is that if I deleted a repository Github removes the contributions from your tracking board. This is something I normally do as a kind of 'house-cleaning' for projects that are no longer updated or relevant. Despite that asterisk, I got pretty close to my goal.  It was only towards the holidays that I began to lose steam and daily contributions dropped (see below).
 
 
-![GitHub contributions map](/blog-v3/assets/contributions.png)
+![GitHub contributions map](/assets/contributions.png)
 
 For 2019 I only had two resolutions.  The first was to do 200 push-ups every week, doing 10 more push-ups than the subsequent week.  I got to about 580 before I dropped off for various reasons.  The second was to get certified as an AWS Associate  Solutions Architect.  The primary impetus for this goal was to better understand the infrastructure that supported the Nautilus mobile applications.  In September after countless hours in MOOCs (Massive Online Open Courses) and practice tests I made my first attempt and passed with a 91%.   
 
-![AWS Flair](/blog-v3/assets/awsflair.png)
+![AWS Flair](/assets/awsflair.png)
 
 That leaves this year.  My three resolutions are physical, mental, and professional.  The physical one first.  The push up goal from last year worked out pretty well, with one caveat:  It got really time consuming towards the end with the constantly increasing number of push ups that I needed to do. The inefficiency ultimately ended up being the resolution's downfall as I devoted my limited exercise time budget to other physical events (Tough Mudder, Rugged Maniac, Nautilus Burn Challenge, etc.)  throughout the year.  This year I'm adjusting my push ups to 3 sets.  The idea being that the sets can be as few as 10 push ups each. This will  allow me to do them anywhere, even at my desk on the sly if I need to.  
 
 
-![2020](/blog-v3/assets/2020.jpg)
+![2020](/assets/2020.jpg)
 
 The second goal is mental.  I've noticed that during vacations I tend to increase my consumption of digital products, namely video games.  According to a report by the Council on Science and Public Health titled\
 <a href="https://psychcentral.com/blog/images/csaph12a07.pdf">The Addictive

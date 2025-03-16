@@ -2,7 +2,7 @@
 title: The Final AAR
 date: '2019-12-07T06:04:13-08:00'
 ---
-![And now for something completely different](/blog-v3/assets/different.jpg)
+![And now for something completely different](/assets/different.jpg)
 
 If you haven’t had a chance to read the first entry in the series for context, <a href="/post/after-action-review-aar/">you can do so here</a>.  
 

@@ -2,7 +2,7 @@
 title: AAR pt 6 (Tools)
 date: 2018-01-01T05:48:17-08:00
 ---
-![Toolbelt](/blog-v3/assets/toolbelt.jpeg)
+![Toolbelt](/assets/toolbelt.jpeg)
 
 If you haven't had a chance to read the first entry in the series for context, [you can do so here](/post/after-action-review-aar/).
 

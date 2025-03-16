@@ -2,7 +2,7 @@
 title: HackerRank Game Theory
 date: '2023-05-03T07:34:00-07:00'
 ---
-<img style="float: left; margin:0 1em 0 0; width: 25%" src="/blog-v3/assets/nash.png"/>
+<img style="float: left; margin:0 1em 0 0; width: 25%" src="/assets/nash.png"/>
 
 I've used HackerRank throughout my career, both when I've been screened as a candidate, as well as to screen my own candidates.  I've also used it to study algorithms and data structures.  It's a great platform for practicing and evaluating the fundamentals of Computer Science.  In the process of skills evaluation the candidate must check a box stating 
 
@@ -27,17 +27,17 @@ The technical interview process is more akin to a Game Theory "Game Tree".  This
 
 There are two ways that we can frame the scenario.  The first is as a sequential game. The second player sees the first player choose to study whiteboard problems, and makes their decision on what to study based on that.  The first player knows _a priori_ that the second player will be honest (or dishonest) and acts accordingly.  Thus framed the problem can be represented by the tree below:
 
-<img style="width: 100%" src="/blog-v3/assets/sequential.png"/>
+<img style="width: 100%" src="/assets/sequential.png"/>
 
 A score of "-10" means that the candidate will not get the job.  A score of "0" means the candidate could get the job.  A score of "10" means that the candidate will definitely get the job, and a score of "5" means that either one of the candidates will definitely get the job.  In a sequential game we can use backwards induction to solve for "Subgame Perfect Equilibrium" (SPE).  A SPE is a complete and contingent plan of action for all players.  All SPEs are NEs, but not all NEs are SPEs.  The solution is depicted below:
 
-<img style="width: 100%" src="/blog-v3/assets/sequentialsolved.png"/>
+<img style="width: 100%" src="/assets/sequentialsolved.png"/>
 
 Both candidates study whiteboard problems and both candidates cheat on the digital portion.
 
 In the second scenario is as a simultaneous game.  Neither of the candidates see the other's preparations or knows their level of honesty.  The tree for this scenario is:
 
-<img style="width: 100%" src="/blog-v3/assets/simeltaneous.png"/>
+<img style="width: 100%" src="/assets/simeltaneous.png"/>
 
 Because we cannot use backward induction, we have to compare the grids themselves.  In this case it is always more beneficial for a player cheat rather than to not to cheat, and to study whiteboard problems than digital problems.
 

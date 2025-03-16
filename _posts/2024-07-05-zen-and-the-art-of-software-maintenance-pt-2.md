@@ -2,7 +2,7 @@
 title: Zen and the Art of Software Maintenance pt 2
 date: '2024-07-05T09:12:12-07:00'
 ---
-![Motorcycle Maintenance](/blog-v3/assets/maintenance.jpg)
+![Motorcycle Maintenance](/assets/maintenance.jpg)
 
 Welcome to the second part of my summary of the concepts of <u>Zen and The Art of Motorcycle Maintenance</u> by Robert Pirsig as they apply to software development.  You can read the first part [here](https://jjmtaylor.com/zen-and-the-art-of-software-maintenance/). 
 

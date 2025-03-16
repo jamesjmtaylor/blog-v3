@@ -2,7 +2,7 @@
 title: Day 9-Frameworks
 date: 2016-09-15T12:13:50.000Z
 ---
-![Day 9](/blog-v3/assets/day9.jpg)
+![Day 9](/assets/day9.jpg)
 
 Timeline:
 * 0800-Yeah!  Phone’s fixed, I’m caught up in the lesson modules, I’ve got my 80’s movies soundtrack going and a hot cup of coffee at my side.  Time to get to work.

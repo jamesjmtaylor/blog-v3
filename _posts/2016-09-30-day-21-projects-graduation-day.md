@@ -2,7 +2,7 @@
 title: Day 21-Projects & Graduation Day
 date: 2016-09-30T05:44:06-07:00
 ---
-![Day 21](/blog-v3/assets/day21.jpg)
+![Day 21](/assets/day21.jpg)
 
 * 0730-It’s the last day of Coding Dojo.  I’ve got mixed feelings about it.  On the one hand I’m sad to be leaving a place where I learned so much so fast.  On the other I’m excited and anxious to start my job search.  
 * 0900-Another mini-scrum.  I’m going for quick-win objectives at this point.  Add background music.  Touch up the interface.  Fix bugs.  My only major objective is to implement the head-to-head interface and my chances of completing that prior to presentation seem dubious at best.

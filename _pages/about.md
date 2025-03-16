@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-![Steve and the Printrbot](/blog-v3/assets/printrbot.jpg)
+![Steve and the Printrbot](/assets/printrbot.jpg)
 
 I received my Bachelor of Science in Computer Science at the United States Military Academy in 2011. I graduated at the top of my class in my major, with honors, and my capstone project, the Joint Academy Cooperative Unmanned Systems Iniative won ‘Best Solution to a Military Problem.’ While in the Army I served in Afghanistan as a Scout Platoon Leader and was eventually promoted to Captain.
 

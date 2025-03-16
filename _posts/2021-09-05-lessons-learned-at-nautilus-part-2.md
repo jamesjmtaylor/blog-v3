@@ -2,7 +2,7 @@
 title: Lessons Learned at Nautilus (Part 2)
 date: '2021-09-05T07:25:40-07:00'
 ---
-![Circuit Board](/blog-v3/assets/circuitBoard.jpg)
+![Circuit Board](/assets/circuitBoard.jpg)
 
 In my two and a half years at Nautilus I learned a tremendous amount about IoT, Hardware, Software, Data Science, and myself in general. Last month I covered the importance of supporting Over-The-Air (OTA) updates for hardware from the start.  Today I'll be covering how critical data scientist input can be when starting a project.
 
